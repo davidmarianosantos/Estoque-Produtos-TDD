@@ -3,6 +3,7 @@
 Sistema simples de gerenciamento de estoque desenvolvido com **Python** seguindo a metodologia **TDD (Test-Driven Development)**.
 
 > Atividade prática da disciplina **Engenharia de Software (DEC000095)**
+
 > Autor: **David Júnio Mariano dos Santos**
 
 ---
@@ -180,4 +181,5 @@ e.remover(2)
 ## 📄 Licença
 
 Projeto acadêmico desenvolvido para a disciplina **Engenharia de Software (DEC000095)**.
+
 Autor: **David Júnio Mariano dos Santos** — uso livre para fins educacionais.
