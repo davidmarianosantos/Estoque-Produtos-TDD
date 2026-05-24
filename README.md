@@ -180,4 +180,5 @@ e.remover(2)
 ## 📄 Licença
 
 Projeto acadêmico desenvolvido para a disciplina **Engenharia de Software (DEC000095)**.
+
 Autor: **David Júnio Mariano dos Santos** — uso livre para fins educacionais.
